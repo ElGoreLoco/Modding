@@ -2,7 +2,7 @@
 {
   "modid": "modding",
   "name": "Modding",
-  "description": "Mod en el que hay todas las cosas que necesitas para programar un mod",
+  "description": "Mod en el que hay todas las cosas que necesitas saber para programar un mod en minecraft.",
   "version": "1.0",
   "mcversion": "1.7.2",
   "url": "",
